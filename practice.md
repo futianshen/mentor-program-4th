@@ -1,0 +1,2 @@
+- 用 ts 代替 js
+- 用 axios 或其他 request module 取代 request (用 promise 或 async/await 代替 callback)
